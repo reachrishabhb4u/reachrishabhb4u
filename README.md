@@ -14,7 +14,7 @@
 
 ## About
 
-- B.Tech CSE student at **Delhi Technical College** (Class of 2028)
+- B.Tech CSE student at **Delhi Technical Campus** (Class of 2028)
 - Currently learning **Data Science**
 - Looking for **internships** and **open-source** contributions
 - Still deciding what to build next, so stay tuned
