@@ -1,89 +1,84 @@
+<h1 align="center">Rishabh Rai</h1>
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:4a4a4a&height=230&section=header&text=Rishabh%20Rai&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Turning%20raw%20data%20into%20clear%20decisions&descSize=19&descAlignY=63" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=808080&center=true&vCenter=true&width=700&height=45&lines=import+rishabh+as+dev;df.describe%28%29+%E2%86%92+CS+student%2C+Delhi+Technical+College;model.fit%28%29+%E2%86%92+learning+data+science;git+commit+-m+%22open+to+internships%22" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=808080&center=true&vCenter=true&width=720&height=50&lines=Computer+Science+Student;Delhi+Technical+College+%7C+2028;Learning+Data+Science;Open+to+Internships+%26+Open+Source" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=reachrishabhb4u&label=Profile%20Views&color=555555&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=reachrishabhb4u&label=views&color=222222&style=flat-square" />
 </p>
 
 <br>
 
-<h2 align="center">👋 Hi, I'm Rishabh</h2>
+```python
+class Rishabh:
+    role      = "B.Tech CSE Student"
+    college   = "Delhi Technical College"
+    batch     = 2028
+    focus     = "Data Science"
+    learning  = ["Data Processing", "Git & Version Control"]
+    looking_for = ["Internships", "Open Source"]
 
-<h3 align="center">
-  B.Tech CSE student at Delhi Technical College<br>
-  exploring data science, one dataset at a time.
-</h3>
+    def motto(self):
+        return "Make data make sense."
+```
 
 <br>
 
----
+## 📊 Quick Look
 
-## About
+```text
+>>> profile.head()
 
-| | |
-|---|---|
-| 🎓 **Education** | Delhi Technical College, Class of 2028 |
-| 📚 **Learning** | Data Science, Data Processing, Git |
-| 🔨 **Building** | Something new, coming soon |
-| 🎯 **Goals** | Internships and open-source contributions |
-| ♟️ **Beyond code** | Chess, cricket, music while coding |
+   field         value
+0  Education     Delhi Technical College, 2028
+1  Learning      Data Science, Data Processing, Git
+2  Building      TBD (loading...)
+3  Goal          Internships / Open Source
+4  Off-duty      Chess, cricket, music while coding
+```
 
----
+<br>
 
-## Skills
-
-<p>
-  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-**Currently learning**
+## 🧰 Toolkit
 
 <p>
-  <img src="https://img.shields.io/badge/Data%20Processing-555555?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-555555?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data%20Science-555555?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-1a1a1a?style=flat-square&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-1a1a1a?style=flat-square&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-1a1a1a?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-1a1a1a?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-1a1a1a?style=flat-square&logo=css3&logoColor=white" />
 </p>
 
----
+<sub>Currently adding: Data Processing · Git</sub>
 
-## Activity
+<br>
+
+## 📈 Activity
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=reachrishabhb4u&show_icons=true&theme=transparent&hide_border=true&title_color=808080&text_color=808080&icon_color=808080&text_bold=false" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=reachrishabhb4u&show_icons=true&theme=transparent&hide_border=true&title_color=808080&text_color=808080&icon_color=808080" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=reachrishabhb4u&bg_color=00000000&color=808080&line=808080&point=808080&area=true&area_color=808080&hide_border=true&hide_title=true&height=300" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=reachrishabhb4u&bg_color=00000000&color=808080&line=808080&point=808080&area=true&area_color=808080&hide_border=true&hide_title=true&height=280" />
 </p>
 
----
+<br>
 
-## Daily Quote
+## 💬 Quote of the Day
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent&quote_color=808080&author_color=808080&border_color=00000000" />
 </p>
 
----
+<br>
 
-## Connect
+## 📬 Reach Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/rishabh-rai-862b8637b"><img height="36" src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/_i.m_rishabh"><img height="36" src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:reachrishabhb4u@gmail.com"><img height="36" src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+[LinkedIn](https://www.linkedin.com/in/rishabh-rai-862b8637b) · [Instagram](https://www.instagram.com/_i.m_rishabh) · [Email](mailto:reachrishabhb4u@gmail.com)
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a4a4a,100:000000&height=110&section=footer" />
-</p>
+<br>
+
+<p align="center"><sub>Learn · Build · Share · Repeat</sub></p>
