@@ -42,16 +42,25 @@ class Rishabh:
 
 ## 🧰 Toolkit
 
+**Languages**
+
 <p>
-  <img src="https://img.shields.io/badge/C-1a1a1a?style=flat-square&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-1a1a1a?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-1a1a1a?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-1a1a1a?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-1a1a1a?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1a1a1a?style=flat-square&logo=css3&logoColor=white" />
+  <img height="42" src="https://img.shields.io/badge/C-1a1a1a?style=for-the-badge&logo=c&logoColor=white" />
+  <img height="42" src="https://img.shields.io/badge/C++-1a1a1a?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img height="42" src="https://img.shields.io/badge/Python-1a1a1a?style=for-the-badge&logo=python&logoColor=white" />
+  <img height="42" src="https://img.shields.io/badge/Java-1a1a1a?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img height="42" src="https://img.shields.io/badge/HTML-1a1a1a?style=for-the-badge&logo=html5&logoColor=white" />
+  <img height="42" src="https://img.shields.io/badge/CSS-1a1a1a?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-<sub>Currently adding: Data Processing · Git</sub>
+**Currently learning**
+
+<p>
+  <img height="42" src="https://img.shields.io/badge/Data%20Science-555555?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img height="42" src="https://img.shields.io/badge/Data%20Processing-555555?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img height="42" src="https://img.shields.io/badge/Git-555555?style=for-the-badge&logo=git&logoColor=white" />
+  <img height="42" src="https://img.shields.io/badge/GitHub-555555?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 <br>
 
@@ -77,7 +86,12 @@ class Rishabh:
 
 ## 📬 Reach Me
 
-[LinkedIn](https://www.linkedin.com/in/rishabh-rai-862b8637b) · [Instagram](https://www.instagram.com/_i.m_rishabh) · [Email](mailto:reachrishabhb4u@gmail.com)
+<p>
+  <a href="https://www.linkedin.com/in/rishabh-rai-862b8637b"><img height="42" src="https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/_i.m_rishabh"><img height="42" src="https://img.shields.io/badge/Instagram-1a1a1a?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:reachrishabhb4u@gmail.com"><img height="42" src="https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/reachrishabhb4u"><img height="42" src="https://img.shields.io/badge/GitHub-1a1a1a?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
 <br>
 
