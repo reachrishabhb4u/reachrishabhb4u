@@ -13,7 +13,7 @@
 ```python
 class Rishabh:
     role      = "B.Tech CSE Student"
-    college   = "Delhi Technical College"
+    college   = "Delhi Technical Campus"
     batch     = 2028
     focus     = "Data Science"
     learning  = ["Data Processing", "Git & Version Control"]
@@ -31,7 +31,7 @@ class Rishabh:
 >>> profile.head()
 
    field         value
-0  Education     Delhi Technical College, 2028
+0  Education     Delhi Technical Campus, 2028
 1  Learning      Data Science, Data Processing, Git
 2  Building      TBD (loading...)
 3  Goal          Internships / Open Source
